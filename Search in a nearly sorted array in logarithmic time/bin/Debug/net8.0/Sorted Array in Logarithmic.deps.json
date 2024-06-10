@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sorted Array in Logarithmic/1.0.0": {
+        "runtime": {
+          "Sorted Array in Logarithmic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorted Array in Logarithmic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\bin\Debug\net8.0\Smallest Missing Element.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\bin\Debug\net8.0\Smallest Missing Element.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\bin\Debug\net8.0\Smallest Missing Element.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\bin\Debug\net8.0\Smallest Missing Element.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\bin\Debug\net8.0\Smallest Missing Element.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\Smallest Missing Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\Smallest Missing Element.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\Smallest Missing Element.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\Smallest Missing Element.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\Smallest Missing Element.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\refint\Smallest Missing Element.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\Smallest Missing Element.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\Smallest Missing Element.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the smallest missing element from a sorted array\obj\Debug\net8.0\ref\Smallest Missing Element.dll

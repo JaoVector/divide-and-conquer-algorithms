@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\bin\Debug\net8.0\Floor and Ceil.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\bin\Debug\net8.0\Floor and Ceil.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\bin\Debug\net8.0\Floor and Ceil.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\bin\Debug\net8.0\Floor and Ceil.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\bin\Debug\net8.0\Floor and Ceil.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\Floor and Ceil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\Floor and Ceil.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\Floor and Ceil.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\Floor and Ceil.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\Floor and Ceil.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\refint\Floor and Ceil.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\Floor and Ceil.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\Floor and Ceil.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find floor and ceil of a number in a sorted integer array\obj\Debug\net8.0\ref\Floor and Ceil.dll

@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\bin\Debug\net8.0\Find Rotations.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\bin\Debug\net8.0\Find Rotations.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\bin\Debug\net8.0\Find Rotations.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\bin\Debug\net8.0\Find Rotations.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\bin\Debug\net8.0\Find Rotations.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\Find Rotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\Find Rotations.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\Find Rotations.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\Find Rotations.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\Find Rotations.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\refint\Find Rotations.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\Find Rotations.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\Find Rotations.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Divide and Conquer\Find the number of rotations in a circularly sorted array\obj\Debug\net8.0\ref\Find Rotations.dll
